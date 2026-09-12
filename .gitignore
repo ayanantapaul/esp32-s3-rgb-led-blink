@@ -1,0 +1,4 @@
+dependencies.lock
+CMakeLists.txt
+managed_components/
+sdkconfig.esp32-s3-n16r8
